@@ -9,8 +9,8 @@ This is the repo for Brackey's game jam 2022.2.
 - Amit - https://github.com/Amit8844
 
 # Controls
-- Left mouse Button to shoot
-- Right mouse button to Boost up
+- Left mouse Button to shoot.
+- Right mouse button to Boost Up.
 
 # How To Play
 You have to shoot at youself to move.<br> And aim at the right angle to get the currect launch.
